@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=230&section=header&text=Abhay%20Nadagaddi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=62&descSize=20" width="100%" alt="Abhay Nadagaddi — Full Stack Developer" />
 
+<img src="./abhay-profile.jpeg" width="200" alt="Abhay Nadagaddi" />
+
 # 👋 Hello, I'm Abhay Nadagaddi
 
 ### Full Stack Developer | Software Engineer
@@ -13,18 +15,18 @@ I'm learning programming and computer science fundamentals while developing my f
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,express,python,mongodb,mysql" alt="React, JavaScript, HTML, CSS, Node.js, Express, Python, MongoDB, MySQL" />
+<img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,express,python,mongodb,mysql" alt="My technology stack" />
 
 <br/><br/>
 
 <a href="https://github.com/Dydof">
-  <img src="https://img.shields.io/badge/GitHub-Dydof-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: Dydof" />
+  <img src="https://img.shields.io/badge/GitHub-Dydof-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://www.linkedin.com/in/abhay-n-a15536263/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:nabhay747@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Abhay" />
+  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 </div>
@@ -65,7 +67,7 @@ I'm learning programming and computer science fundamentals while developing my f
 
 ## 🌱 Currently Learning
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python" alt="Currently learning C, C++, Java, and Python" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python" alt="C, C++, Java, and Python" />
 
 | Area | Topics |
 | :--- | :--- |
@@ -73,36 +75,6 @@ I'm learning programming and computer science fundamentals while developing my f
 | Data Structures | Organizing and working with data |
 | DBMS | Database management systems |
 | Operating Systems | OS principles and programming |
-
-<!--
-PORTFOLIO IDEA ONLY — not a published website.
-
-Build a personal portfolio with:
-- About Me
-- Technology Stack
-- Projects
-- Contact Information
-
-Add a portfolio button only after your website is published.
--->
-
-<!--
-PROJECT IDEA ONLY — not a completed project.
-
-Student Task Manager
-
-Suggested stack:
-React, Node.js, Express, MongoDB
-
-Possible features:
-- Add, edit, and delete study tasks.
-- Set deadlines and priorities.
-- Mark tasks as completed.
-- Filter tasks by status.
-
-Add this under "Featured Projects" only after you build it.
-Include repository and live demo links only when they exist.
--->
 
 ---
 
