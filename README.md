@@ -2,20 +2,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=230&section=header&text=Abhay%20Nadagaddi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=62&descSize=20" width="100%" alt="Abhay Nadagaddi — Full Stack Developer" />
 
-<img src="./abhay-profile.jpeg" width="200" alt="Abhay Nadagaddi" />
-
 # 👋 Hello, I'm Abhay Nadagaddi
 
 ### Full Stack Developer | Software Engineer
 
 **React • JavaScript • Node.js • Python**
 
-I'm an engineering student at **KLE Technological University**.
-I'm learning programming and computer science fundamentals while developing my full stack skills.
+I'm an engineering student at **KLE Technological University**, developing my full stack skills and learning computer science fundamentals.
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,express,python,mongodb,mysql" alt="My technology stack" />
+<img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,express,python,mongodb,mysql" alt="React, JavaScript, HTML, CSS, Node.js, Express, Python, MongoDB, and MySQL" />
 
 <br/><br/>
 
@@ -35,11 +32,12 @@ I'm learning programming and computer science fundamentals while developing my f
 
 ## 🎓 About Me
 
-- 🎓 Engineering student at **KLE Technological University**.
-- 💻 My development stack includes **React, Node.js, Express, and Python**.
-- 🗄️ My databases include **MongoDB and MySQL**.
-- 📚 Currently learning **C, C++, Java, Python, Data Structures, DBMS, and Operating Systems**.
-- 📫 Reach me at **nabhay747@gmail.com**.
+- 🎓 Studying engineering at **KLE Technological University**.
+- 💻 Developing my skills in **full stack web development**.
+- 🌐 Frontend: **React, JavaScript, HTML, and CSS**.
+- ⚙️ Backend: **Node.js, Express, and Python**.
+- 🗄️ Databases: **MongoDB and MySQL**.
+- 📫 Email: **nabhay747@gmail.com**.
 
 ---
 
@@ -71,10 +69,28 @@ I'm learning programming and computer science fundamentals while developing my f
 
 | Area | Topics |
 | :--- | :--- |
-| Programming Languages | C, C++, Java, Python |
+| Programming | C, C++, Java, Python |
 | Data Structures | Organizing and working with data |
 | DBMS | Database management systems |
 | Operating Systems | OS principles and programming |
+
+<!--
+PORTFOLIO:
+A private portfolio has been created:
+https://abhay-nadagaddi-portfolio.nabhay747.chatgpt.site
+
+Add a visible portfolio link after it is publicly accessible.
+
+PROJECT EXAMPLE ONLY — not a completed project:
+Student Task Manager
+
+Suggested stack: React, Node.js, Express, MongoDB.
+Possible features: add tasks, set deadlines, mark tasks complete,
+and filter tasks by status.
+
+Add it as a featured project only after you build it.
+Include repository and live links only when available.
+-->
 
 ---
 
