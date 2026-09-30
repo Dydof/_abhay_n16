@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=230&section=header&text=Abhay%20Nadagaddi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=62&descSize=20" width="100%" alt="Abhay Nadagaddi — Full Stack Developer" />
 
-<img src="./abhay-profile.jpeg" width="200" alt="Abhay Nadagaddi" />
+<img src="./abhay-profile.png" width="200" alt="Abhay Nadagaddi" />
 
 # 👋 Hello, I'm Abhay Nadagaddi
 
