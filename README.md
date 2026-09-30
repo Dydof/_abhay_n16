@@ -2,13 +2,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=230&section=header&text=Abhay%20Nadagaddi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=62&descSize=20" width="100%" alt="Abhay Nadagaddi — Full Stack Developer" />
 
+<img src="./abhay-profile.jpeg" width="200" alt="Abhay Nadagaddi" />
+
 # 👋 Hello, I'm Abhay Nadagaddi
 
 ### Full Stack Developer | Software Engineer
 
 **React • JavaScript • Node.js • Python**
 
-I'm an engineering student at **KLE Technological University**, developing my full stack skills and learning computer science fundamentals.
+I'm an engineering student at **KLE Technological University**.
+I'm learning programming and computer science fundamentals while developing my full stack skills.
 
 <br/>
 
@@ -16,6 +19,9 @@ I'm an engineering student at **KLE Technological University**, developing my fu
 
 <br/><br/>
 
+<a href="https://abhay-nadagaddi-portfolio.nabhay747.chatgpt.site">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio" />
+</a>
 <a href="https://github.com/Dydof">
   <img src="https://img.shields.io/badge/GitHub-Dydof-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
@@ -32,11 +38,13 @@ I'm an engineering student at **KLE Technological University**, developing my fu
 
 ## 🎓 About Me
 
-- 🎓 Studying engineering at **KLE Technological University**.
+- 🎓 Engineering student at **KLE Technological University**.
 - 💻 Developing my skills in **full stack web development**.
 - 🌐 Frontend: **React, JavaScript, HTML, and CSS**.
 - ⚙️ Backend: **Node.js, Express, and Python**.
 - 🗄️ Databases: **MongoDB and MySQL**.
+- 📚 Currently learning **C, C++, Java, Python, Data Structures, DBMS, and Operating Systems**.
+- 🌍 Portfolio: [Visit my website](https://abhay-nadagaddi-portfolio.nabhay747.chatgpt.site).
 - 📫 Email: **nabhay747@gmail.com**.
 
 ---
@@ -63,34 +71,35 @@ I'm an engineering student at **KLE Technological University**, developing my fu
 
 ---
 
+## 🚀 Portfolio Website
+
+A personal website presenting my introduction, technology stack, learning interests, and contact information.
+
+**Technologies:** HTML · CSS · JavaScript
+
+### Features
+
+- Responsive layout for desktop and mobile.
+- Dark theme with purple–cyan gradients.
+- Animated profile photo effects with a pause control.
+- Technology category tabs.
+- Contact form that opens an email draft.
+- GitHub, LinkedIn, and email links.
+
+**[🌐 View my portfolio](https://abhay-nadagaddi-portfolio.nabhay747.chatgpt.site)**
+
+---
+
 ## 🌱 Currently Learning
 
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python" alt="C, C++, Java, and Python" />
 
 | Area | Topics |
 | :--- | :--- |
-| Programming | C, C++, Java, Python |
+| Programming Languages | C, C++, Java, Python |
 | Data Structures | Organizing and working with data |
 | DBMS | Database management systems |
 | Operating Systems | OS principles and programming |
-
-<!--
-PORTFOLIO:
-A private portfolio has been created:
-https://abhay-nadagaddi-portfolio.nabhay747.chatgpt.site
-
-Add a visible portfolio link after it is publicly accessible.
-
-PROJECT EXAMPLE ONLY — not a completed project:
-Student Task Manager
-
-Suggested stack: React, Node.js, Express, MongoDB.
-Possible features: add tasks, set deadlines, mark tasks complete,
-and filter tasks by status.
-
-Add it as a featured project only after you build it.
-Include repository and live links only when available.
--->
 
 ---
 
@@ -102,6 +111,7 @@ Include repository and live links only when available.
 
 ## 🤝 Let's Connect
 
+- **Portfolio:** [Visit my website](https://abhay-nadagaddi-portfolio.nabhay747.chatgpt.site)
 - **GitHub:** [Dydof](https://github.com/Dydof)
 - **LinkedIn:** [Abhay Nadagaddi](https://www.linkedin.com/in/abhay-n-a15536263/)
 - **Email:** [nabhay747@gmail.com](mailto:nabhay747@gmail.com)
